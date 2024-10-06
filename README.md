@@ -42,7 +42,4 @@ Full Stack Software Engineer/Developer | Columbia Grad | Multi-Instrumentalist a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkl2109&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-:writing_hand: Blog Posts :
-<a href="https://medium.com/@vkl2109/async-await-using-fetch-6bee184b71a0">Async/Await vs Fetch/Then</a>
-
 </div>
