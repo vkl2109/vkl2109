@@ -14,9 +14,7 @@
 :man_technologist: About Me :
 Full Stack Software Engineer/Developer | Columbia Grad | Multi-Instrumentalist and Composer
 
-- :telescope: Highly motivated, perpetually curious explorer looking to build better products as a junior software developer/apprentice in NYC!!
-
-- :zap: I love all things music! Check out my VINNI repo below for all of my musical works :)
+- :telescope: Forward Deployed Software Engineer at Palantir Hospitals | Former Software Developer intern at AWS Identity
 
 - :mailbox: Where to reach me: vkl2109@columbia.edu or [![Linkedin Badge](https://img.shields.io/badge/-Vincent-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vincentkhacle/)
 
