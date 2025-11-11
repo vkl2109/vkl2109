@@ -12,9 +12,9 @@
 </h1>
 </div>
 :man_technologist: About Me :
-Full Stack Software Engineer/Developer | Columbia Grad | Multi-Instrumentalist and Composer
+Full Stack Software Engineer/Developer | Columbia University | Multi-Instrumentalist and Composer
 
-- :telescope: Forward Deployed Software Engineer at Palantir Hospitals | Former Software Developer intern at AWS Identity
+- :telescope: Forward Deployed Software Engineer at Palantir Hospitals | Software Developer Intern at AWS Identity
 
 - :mailbox: Where to reach me: vkl2109@columbia.edu or [![Linkedin Badge](https://img.shields.io/badge/-Vincent-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vincentkhacle/)
 
